@@ -1,2 +1,1 @@
-#by Yordi#
-Yordi Alert
+by Yordi
